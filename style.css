@@ -15,10 +15,10 @@ body {
     background-image: url(images/Nepal-earthquake-2015-min.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    border-right: 61px solid mediumseagreen;
-    border-left: 61px solid mediumseagreen;
-    border-top: 17px solid mediumseagreen;
-    border-bottom: 17px solid mediumseagreen;
+    border-right: 105px solid mediumseagreen;
+    border-left: 105px solid mediumseagreen;
+    border-top: 35px solid mediumseagreen;
+    border-bottom: 35px solid mediumseagreen;
 }
 
 
@@ -93,4 +93,50 @@ body {
 #hr-line {
     width: 40%;
     margin-bottom: 50px;
+}
+
+#food-donate img {
+    width: 20%;
+
+}
+
+#food-donate {
+    background-color: greenyellow;
+    margin: 20px 30px;
+    margin-left: 80px;
+}
+
+#medicine-donate img {
+    width: 23%;
+}
+
+#medicine-donate {
+    background-color: aqua;
+    margin: 20px 30px;
+}
+
+#infrastructure-donate img {
+    width: 17%;
+}
+
+#infrastructure-donate {
+    background-color: blueviolet;
+    margin: 20px 30px;
+}
+
+.thing-donate {
+    padding: 20px 10px;
+}
+
+#donation-spent {
+    margin-bottom: 10%;
+}
+
+#footer {
+    background-color: gainsboro;
+    padding: 1%;
+}
+
+.considerate {
+    color: goldenrod;
 }
