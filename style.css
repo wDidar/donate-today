@@ -1,0 +1,46 @@
+body {
+    font-family: Arima;
+    margin: 0;
+}
+
+.centre-align {
+    text-align: center;
+}
+
+#vertical-align {
+    padding: 5%;
+}
+
+#top {
+    background-image: url(images/Nepal-earthquake-2015-min.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-right: 61px solid mediumseagreen;
+    border-left: 61px solid mediumseagreen;
+    border-top: 17px solid mediumseagreen;
+    border-bottom: 17px solid mediumseagreen;
+}
+
+
+
+#start-title {
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+}
+
+#start-p {
+    font-weight: 800;
+    font-size: 18px;
+    color: white;
+}
+
+.button {
+    background-image: linear-gradient(forestgreen, mediumseagreen);
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: 900;
+    color: aliceblue;
+    border-radius: 20px;
+    text-decoration: none;
+}
