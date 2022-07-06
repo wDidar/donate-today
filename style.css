@@ -41,6 +41,56 @@ body {
     font-size: 20px;
     font-weight: 900;
     color: aliceblue;
-    border-radius: 20px;
+    border-radius: 15px;
     text-decoration: none;
+}
+
+
+#amount-section {
+    margin-top: 10%;
+}
+
+#amount-title {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.flex-contain {
+    display: flex;
+}
+
+#amounts {
+    margin-left: 20%;
+}
+
+.amount-number {
+    padding: 15px 30px;
+    margin: 30px;
+    background-color: rgb(244, 238, 238);
+    font-weight: 900;
+}
+
+#selected-amount {
+    padding: 15px 30px;
+    margin: 30px;
+    font-weight: 900;
+    background-color: lightgreen;
+    color: darkgreen;
+    border: 3px solid darkgreen;
+    border-radius: 10px;
+}
+
+#custom-amount {
+    margin-bottom: 10%;
+}
+
+#amount-input {
+    border: none;
+    background-color: transparent;
+    font-size: 17px;
+}
+
+#hr-line {
+    width: 40%;
+    margin-bottom: 50px;
 }
